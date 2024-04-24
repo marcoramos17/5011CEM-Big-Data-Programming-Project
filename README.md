@@ -1,4 +1,6 @@
-# cs-project-template
-Coventry University - CS Big Data Project.
+5011 - Big Data Programming Project
+===============
+Coventry University - CS Big Data Programming Project
 
-Using pandas, matplotlib and other libraries for data analysis in python
+# Individual Project
+Using pandas, matplotlib and other libraries for data analysis in python.
